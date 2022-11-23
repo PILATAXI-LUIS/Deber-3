@@ -38,6 +38,9 @@ A diferencia de los circuitos en serie, la relacion presente entre la corriente,
 
 ![image](https://user-images.githubusercontent.com/116705680/203524998-f0e181c9-0c5e-43ef-874f-66229faac55b.png)
 
+![image](https://user-images.githubusercontent.com/116705680/203647889-ae028fa3-11b4-4ddb-8336-bd461bc96fd7.png)
+
+## 3._Ejercicios 
 
 
 
