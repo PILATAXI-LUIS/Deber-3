@@ -14,7 +14,7 @@
 
 ## Circuitos en Serie
 
-### * Relación entre los componentes de electricidad. 
+### * Relación entre los componentes electricos. 
 
 Los circuitos en serrie presentan muchas caracteristicsa especiales en la forma de relacionarse varias resistencias o varias corrientes, y con una interesante interpretacion de la corriente.
 
@@ -29,6 +29,14 @@ Lego de conocer los conceptos basicos de un circuito en serie se pueden relacion
 ![image](https://user-images.githubusercontent.com/116705680/203503679-94becf56-b835-444f-a35a-55cba4811b0a.png)
 
 ## Circuitos en Paralelo 
+
+### * Relacion entre los componentes electricos.
+
+A diferencia de los circuitos en serie, la relacion presente entre la corriente, voltaje y resistencia en circuitos en paralelo es diferente, esto se puede expresar de varias maneras aparte de la interpretacion por medio de la ecuaciones principales.
+
+![image](https://user-images.githubusercontent.com/116705680/203522397-3065039c-22cf-497c-9fa3-79cbe0861105.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203524998-f0e181c9-0c5e-43ef-874f-66229faac55b.png)
 
 
 
