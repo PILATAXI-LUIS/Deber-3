@@ -190,6 +190,139 @@ La suma de las resitencias atraves del circuito presentan exactamente 15kOhm, as
 
 ### SECCIÓN 6–1 Resistores en paralelo 
 
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/116705680/203848959-22525a8f-0a05-4d9c-9bf2-86b428b39446.png)
+
+Los resistores de la conexion 1 no estan en paralelo mientraas que los del la conexio 2 si se encuantran en paralelo.
+
+### SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12V y la resistencia total de 550 Ohm? Hay cuatro resistores, todos de igual valor.
+
+![image](https://user-images.githubusercontent.com/116705680/203849099-bcf692de-199d-4124-b3bf-756120cbf533.png)
+
+6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+![image](https://user-images.githubusercontent.com/116705680/203849143-afc44e8c-79b2-43cb-97f6-b618933cc1e7.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203849159-627c4da3-fb11-44ea-bdd0-dcfdb58af2c0.png)
+
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/116705680/203849192-b7211ae8-f762-4d07-92a1-1edcaf7b949c.png)
+
+### SECCIÓN 6–3 Ley de las corrientes de Kirchhoff 
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+![image](https://user-images.githubusercontent.com/116705680/203849223-1b60f496-11d9-47d6-a006-c1a72c39b6fb.png)
+
+*12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+![image](https://user-images.githubusercontent.com/116705680/203849302-c72f1089-9abc-40ac-bcba-1495d25d1d9d.png)
+
+### SECCIÓN 6–4 Resistencia total en paralelo
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MOhm, 2.2 MOhm, 5.6 MOhm, 12 MOhm, y 22 MOhm.Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/116705680/203849455-e6092b45-3936-4cea-a528-3bb8116ca8f7.png)
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/116705680/203849495-d23c0b38-2913-4521-aa4c-73a27c57c1d8.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203849514-36a75652-fc53-47ad-a0f3-1bdd9ace1ea0.png)
+
+18. Tres grupos, uno de cinco resistores de 470 Ohm, otro de diez resistores de 100 Ohm, y uno más de dos resistores de 100 Ohm están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+![image](https://user-images.githubusercontent.com/116705680/203849638-30fc58fa-06d4-4ec2-9514-747685f30f8a.png)
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Ohmn, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/116705680/203849688-bb51c9ec-c2ae-48f2-816e-2e2182aeca62.png)
+
+### SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/116705680/203849723-c5670394-e916-4ea9-ae81-d78a241dfb63.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203849754-564199cb-e917-4a67-aca0-2762fd13f4ea.png)
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+![image](https://user-images.githubusercontent.com/116705680/203849815-0add1a71-8952-4e62-bde6-6cf4c314af65.png)
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/116705680/203887159-2cff6bf3-cc9e-42b7-b433-3d885ecb714e.png)
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/116705680/203887266-140d62f0-50eb-4f77-bc5b-ab311580c86f.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887289-5222d217-35d8-4934-8e9c-b364d8c37b30.png)
+
+### SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![image](https://user-images.githubusercontent.com/116705680/203887374-02c098de-529d-4fdb-9444-0486d92541e7.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887401-850509b5-037c-46ed-b656-2a67c3033890.png)
+
+### SECCIÓN 6–7 Divisores de corriente
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/116705680/203887454-55878f34-7578-431d-bf13-90478e53fb30.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887481-1ef25557-d5a0-4cd1-ac6b-c6ef93b1978d.png)
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/116705680/203887565-3abee3cc-393f-469c-a864-1bd2244bea0c.png)
+
+* 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ohm.
+b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM=50 Ohm).
+
+![image](https://user-images.githubusercontent.com/116705680/203887670-7abf4676-3f28-4cbe-9f2b-e3e06de648fd.png)
+
+### SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/116705680/203887744-62765707-748f-4d58-a8cd-e9022ffdf621.png)
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+![image](https://user-images.githubusercontent.com/116705680/203887791-a70c8b8c-d0da-4135-9d4a-35cf01644de6.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887817-48a7926b-f59d-4054-9937-7e6884dbc734.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887838-8ca4df82-ed5e-454b-9e6c-7941efac0bf7.png)
+
+### SECCIÓN 6–10 Localización de fallas
+
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/116705680/203887897-11b4e319-b93a-442a-9aed-1dce5e487579.png)
+
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/116705680/203887982-58e9c619-6661-4692-84e0-ec73969cb3fd.png)
+
+![image](https://user-images.githubusercontent.com/116705680/203887941-adbc885c-0074-40be-9347-c717fb9d8e84.png)
+
+## 4._Conclusiones
+
+
+
+
+
+
+
 
 
 
