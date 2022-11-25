@@ -315,19 +315,16 @@ b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-
 
 ![image](https://user-images.githubusercontent.com/116705680/203887941-adbc885c-0074-40be-9347-c717fb9d8e84.png)
 
-## 4._Conclusiones
+## 4._Video 
 
+https://www.youtube.com/watch?v=ViGdRYhrDvs
 
+## 5._Conclusiones
 
+  * Las diferentes interpretaciones de la corriente, voltaje y resistencia se encuentran extrechamente ralacionados ya sea en un circuito en serio o paralelo y que con unos simples comprenciones de los significados de lo que representa la carriente, voltaje o resistencia podemos determinar como interctuaran a lo largo de la trayectoria o trayectorias del circuito.
+  * Al reconocer las diversas formas de interaccion de los componenetes de un circuito, podemos obtener los valores de otros componentes que necesitemos para poder completar el circuito de forma correcta. 
+  * Los fallos en un circuito en seio o paralelo no se presentan de la misma forma y que con conocer unos pocos valores del circuito sabremos interpretar los posibles errores e incluso determinar el error en especifico. 
 
+## 6._Bibliografia
 
-
-
-
-
-
-
-
- 
-   
-   
+  * Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
